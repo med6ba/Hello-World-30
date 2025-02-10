@@ -42,5 +42,4 @@ Each file is named according to the programming language used, with the appropri
 ## Contributing
 Feel free to contribute by adding more languages or improving existing ones!
 
-## License
-This project is open-source and available under the MIT License.
+## FOR FUN (◡‿◡)
