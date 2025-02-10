@@ -6,7 +6,7 @@ This repository contains "Hello World" programs written in 30 different programm
 Each file is named according to the programming language used, with the appropriate file extension. For example:
 
 | File Name          | Language      |
-|--------------------|--------------|
+|:--------------------|:--------------|
 | hello_world.py    | Python       |
 | hello_world.c     | C            |
 | hello_world.cpp   | C++          |
