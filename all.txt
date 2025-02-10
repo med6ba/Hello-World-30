@@ -1,0 +1,96 @@
+Python: print("Hello World!")
+
+C:
+#include <stdio.h>
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+
+C++:
+#include <iostream>
+int main() {
+    std::cout << "Hello World!\n";
+    return 0;
+}
+
+Java:
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+
+JavaScript: console.log("Hello World!");
+TypeScript: console.log("Hello World!");
+
+C#:
+using System;
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello World!");
+    }
+}
+
+Go:
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello World!")
+}
+
+Rust:
+fn main() {
+    println!("Hello World!");
+}
+
+Swift: print("Hello World!")
+Kotlin: fun main() { println("Hello World!") }
+
+PHP: <?php echo 'Hello World!'; ?>
+Ruby: puts 'Hello World!'
+Perl: print "Hello World!\n";
+Bash: echo 'Hello World!'
+Lua: print("Hello World!")
+Haskell: main = putStrLn "Hello World!"
+R: print("Hello World!")
+
+Dart:
+void main() {
+    print("Hello World!");
+}
+
+Scala:
+object Main extends App {
+    println("Hello World!")
+}
+
+Julia: println("Hello World!")
+
+Objective-C:
+#import <stdio.h>
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+
+Groovy: println 'Hello World!'
+Pascal: begin writeln('Hello World!'); end.
+
+COBOL:
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO.
+PROCEDURE DIVISION.
+DISPLAY 'Hello World!'.
+STOP RUN.
+
+F#: printfn "Hello World!"
+SQL: SELECT 'Hello World!' FROM dual;
+Lisp: (print "Hello World!")
+Prolog: :- initialization(main). main :- write('Hello World!'), nl.
+
+Fortran:
+PROGRAM HELLO
+PRINT *, 'Hello World!'
+END PROGRAM HELLO
+
