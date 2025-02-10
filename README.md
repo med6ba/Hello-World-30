@@ -41,5 +41,3 @@ Each file is named according to the programming language used, with the appropri
 
 ## Contributing
 Feel free to contribute by adding more languages or improving existing ones!
-
-## FOR FUN (◡‿◡)
