@@ -1,4 +1,4 @@
-# Hello World in <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmcxNDg4cXlja3RxY2Z5anE5YmF6aGQ4NDBoMHBzcTNiemZ2ZzF5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b7O3atoEknirKg/giphy.gif" width=10%> Languages!
+# Hello World in 30 Languages!
 
 This repository contains "Hello World" programs written in 30 different programming languages. Each file prints "Hello World!" to the console in its respective language.
 
@@ -40,3 +40,6 @@ Each file is named according to the programming language used, with the appropri
 
 ## Contributing
 Feel free to contribute by adding more languages or improving existing ones!
+
+## This project is for FUN ^_^
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmcxNDg4cXlja3RxY2Z5anE5YmF6aGQ4NDBoMHBzcTNiemZ2ZzF5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b7O3atoEknirKg/giphy.gif" width=30%> 
