@@ -1,12 +1,12 @@
-# Hello World in 30 Languages
+# Hello World in 30 Languages!
 
 This repository contains "Hello World" programs written in 30 different programming languages. Each file prints "Hello World!" to the console in its respective language.
 
 ## Structure
 Each file is named according to the programming language used, with the appropriate file extension. For example:
 
-| File Name          | Language      |
-|:--------------------|:--------------|
+| File Name         | Language     |
+|:------------------|:-------------|
 | hello_world.py    | Python       |
 | hello_world.c     | C            |
 | hello_world.cpp   | C++          |
